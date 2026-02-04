@@ -1,0 +1,22 @@
+# Virtual Environment(Create new Virtual Environment)
+nenvy/
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files
+*.pkl
+*.joblib
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter
+.ipynb_checkpoints/
